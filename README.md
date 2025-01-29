@@ -79,9 +79,3 @@ The system supports **user authentication, data entry, triggers, and complex que
 - **Departments**  
 
 ---
-
-## **🛠️ Installation & Setup**
-### **Clone the Repository**
-```bash
-git clone https://github.com/your-username/museum-database-system.git
-cd museum-database-system
